@@ -9,7 +9,7 @@ end
 #until loop
 
 i = 1;
-until i == 10
+until i == 10 do # It's optinal to add do 
     puts i;
     i += 1; # it's possible to add semicolon in ruby
 end
