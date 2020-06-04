@@ -12,15 +12,15 @@ end
 a = 23
 b = 4
 if a < b
-  print "a less than b"
+  puts "a less than b"
 elsif a > b
-  print "a greater than b"
+  puts "a greater than b"
 else
-  print "a equals b"
+  puts "a equals b"
 end
 
 
 #review unless statement
 
 problem = false 
-print "Good to go!" unless problem
+puts "Good to go!" unless problem
