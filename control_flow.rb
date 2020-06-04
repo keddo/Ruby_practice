@@ -6,3 +6,15 @@ unless hungry   # this only can be executed if the variable hungry is false
 else
   puts "Time to eat!"
 end
+
+
+#If, Else, and Elsif
+a = 23
+b = 4
+if a < b
+  print "a less than b"
+elsif a > b
+  print "a greater than b"
+else
+  print "a equals b"
+end
