@@ -18,3 +18,9 @@ elsif a > b
 else
   print "a equals b"
 end
+
+
+#review unless statement
+
+problem = false 
+print "Good to go!" unless problem
