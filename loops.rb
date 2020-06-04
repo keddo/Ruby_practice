@@ -31,5 +31,11 @@ loop {
 # the next keyword
 for i in 1..20
    next if i % 2 == 0 # the next keyword used to skip iteration
-   put i
+   puts i
 end
+
+
+# Arrays in ruby
+
+my_array = [1, 2, 3];
+puts my_array
