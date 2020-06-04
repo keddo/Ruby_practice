@@ -18,3 +18,12 @@ end
 for num in 1..10 # three dots excludes the final number in the range but two dots includes the number
     puts num
 end
+
+# the loop iterator 
+i = 0
+
+loop {
+    i += 1
+    print"#{i}"
+    break if i > 5
+}
