@@ -15,6 +15,6 @@ until i == 10 do # It's optinal to add do
 end
 
 #the for loop
-for num in 1...10
+for num in 1..10 # three dots excludes the final number in the range but two dots includes the number
     puts num
 end
