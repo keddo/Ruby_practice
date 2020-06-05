@@ -9,8 +9,6 @@
 - Github: [@keddo](https://github.com/keddo)
 - Twitter: [@kedirman](https://twitter.com/kedirman)
 - Linkedin: [@kedirabdurahman](https://www.linkedin.com/in/kedirabdurahman/)
-## 🤝 Contributing
-
 <!-- 
 ## 📝 License
 
