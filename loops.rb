@@ -59,3 +59,4 @@ puts ""
     str += "" if i % 15 == 0
     str.empty? ? (puts i) : (puts str)
 end
+
