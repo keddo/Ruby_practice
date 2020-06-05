@@ -1,4 +1,4 @@
-#the while loop
+the while loop
 
 counter = 1
 while counter < 11
@@ -47,4 +47,15 @@ array = [1, 2, 3, 4, 5]
 array.each do |x| 
     x += 10
     print "#{x} "
+end
+puts ""
+
+# Fizzbuzz challenge algorithm on Hackerrank
+100.times do |i|
+    i += 1
+    str = "";
+    str += "Fizz" if i % 3 == 0
+    str += "Buzz" if i % 5 == 0
+    str += "" if i % 15 == 0
+    str.empty? ? (puts i) : (puts str)
 end
